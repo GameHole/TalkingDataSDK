@@ -1,0 +1,18 @@
+{
+    "name": "TalkingData.Editor",
+    "references": [
+        "GUID:84ffd2ae0c425e941964896fa1a44407",
+        "GUID:5b36311bf6883e348939dcfe19fa5601",
+        "GUID:14a3026c8005e1640bd43c2a15e78893"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
