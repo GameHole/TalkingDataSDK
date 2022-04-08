@@ -15,7 +15,7 @@ namespace TalkingDataSDK
         [MenuItem("SDK/创建TalkingData参数")]
         static void SetPama()
         {
-            AssetHelper.CreateAsset<TalkingDataPama>();
+            AssetHelper.CreateOrGetAsset<TalkingDataPama>();
             SetXml();
             AssetDatabase.Refresh();
         }
